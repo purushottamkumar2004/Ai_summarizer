@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='w-full flex justify-between sm:px-16 py-12 gap-2 sm:gap-12 '>
       <div className='flex flex-col items-start w-1/2 summary_box'>
         <h1 className='text-xl font-bold text-center blue_gradient'>SnapSum</h1>
-        <span className='text-md mt-5'>Snapsum is an experimental App, which can help you summarize articles and more!</span>
+        <span className='text-md mt-5'>Snapsum is an experimental App, which can help you summarize articles and more! CREATED BY= PURUSHOTTAM KUMAR span>
 
       </div>
       <div className='flex flex-col items-start summary_box w-1/2 '>
