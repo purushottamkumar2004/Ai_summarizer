@@ -90,7 +90,7 @@ const PDFDocument = ({ summary, link }) => (
       {/* Footer */}
       <View style={styles.footer}>
         <Text>Summary Downloaded from SnapSum AI Summarizer</Text>
-        <Text>Developed By- Chirag Rajput</Text>
+        <Text>Developed By- Purushottam Kumar</Text>
       </View>
     </Page>
   </Document>
