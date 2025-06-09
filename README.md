@@ -1,4 +1,4 @@
-# SnapSum_AiSummarizer
+dee# SnapSum_AiSummarizer
 #### Snap Sum is a web-based SaaS application that can summarize websites and blogs using URLs.
 #### It uses an Article extractor and summarizer API from RapidAPI to summarize the articles using URLs.
 #### This website has the following features-
@@ -11,4 +11,5 @@
 7. If you are bored, look into our jokes and facts section under About Us.
 8. You can switch between dark and light themes.
 
-The website is live at https://snapsumcr2203.netlify.app/
+The website is live at [https://snapsumcr2203.netlify.app/
+](https://ai-summarizer-purushottam-kumars-projects-289faf90.vercel.app/)
